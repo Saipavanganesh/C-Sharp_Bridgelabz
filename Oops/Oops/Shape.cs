@@ -50,15 +50,15 @@ namespace Oops
 
     public class TestShapes
     {
-        //static void Main(string[] args)
-        //{
-        //    Rectangle rect = new Rectangle(10, 12.5);
-        //    Square sq = new Square(2.5);
-        //    Circle circle = new Circle(30);
-        //    Console.WriteLine($"Area of Rectangle is {rect.GetArea()}");
-        //    Console.WriteLine($"Area of Square is {sq.GetArea()}");
-        //    Console.WriteLine($"Area of Circle is {circle.GetArea()}");
-        //    Console.ReadLine();
-        //}
+       // static void Main(string[] args)
+       //{
+       //    Rectangle rect = new Rectangle(10, 12.5);
+       //    Square sq = new Square(2.5);
+       //    Circle circle = new Circle(30);
+       //    Console.WriteLine($"Area of Rectangle is {rect.GetArea()}");
+       //    Console.WriteLine($"Area of Square is {sq.GetArea()}");
+       //    Console.WriteLine($"Area of Circle is {circle.GetArea()}");
+       //    Console.ReadLine();
+       //}
     }
 }

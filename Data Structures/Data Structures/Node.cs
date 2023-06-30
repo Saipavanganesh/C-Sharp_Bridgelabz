@@ -36,7 +36,6 @@ namespace Data_Structures
             if (top == null)
             {
                 Console.WriteLine("Stack is empty. Unable to pop");
-                Console.Read();
                 return;
             }
             top = top.Next;
@@ -46,11 +45,9 @@ namespace Data_Structures
             if (top == null)
             {
                 Console.WriteLine("Stack is empty");
-                Console.Read();
                 return;
             }
             Console.WriteLine($"{top.Data} is at the top");
-            Console.Read();
         }
         public void DisplayStack()
         {
@@ -58,7 +55,6 @@ namespace Data_Structures
             if (top == null)
             {
                 Console.WriteLine("Stack is empty");
-                Console.Read();
                 return;
             }
             while (temp != null)
@@ -66,7 +62,6 @@ namespace Data_Structures
                 Console.WriteLine(temp.Data);
                 temp = temp.Next;
             }
-            Console.Read();
         }
     }
 }
