@@ -1,0 +1,8 @@
+D:\C#\Review_June3rd\Review_June3rd\bin\Debug\Review_June3rd.exe.config
+D:\C#\Review_June3rd\Review_June3rd\bin\Debug\Review_June3rd.exe
+D:\C#\Review_June3rd\Review_June3rd\bin\Debug\Review_June3rd.pdb
+D:\C#\Review_June3rd\Review_June3rd\obj\Debug\Review_June3rd.csproj.AssemblyReference.cache
+D:\C#\Review_June3rd\Review_June3rd\obj\Debug\Review_June3rd.csproj.SuggestedBindingRedirects.cache
+D:\C#\Review_June3rd\Review_June3rd\obj\Debug\Review_June3rd.csproj.CoreCompileInputs.cache
+D:\C#\Review_June3rd\Review_June3rd\obj\Debug\Review_June3rd.exe
+D:\C#\Review_June3rd\Review_June3rd\obj\Debug\Review_June3rd.pdb

@@ -9,37 +9,40 @@ namespace Hello
 {
     internal class Program
     {  
+        static void StackOperations()
+        {
+            Console.WriteLine("Stack");
+            Stack stack = new Stack();
+            stack.Push(1);
+            stack.Push(2);
+            stack.Push(3);
+            stack.Push(4);
+            stack.Display();
+            stack.Pop();
+            stack.Peak();
+            stack.Push(5);
+            stack.Display();
+            Console.WriteLine();
+        }
+        static void QueueOperations()
+        {
+            Console.WriteLine("Queue");
+            Queue queue = new Queue();
+            queue.Push(1);
+            queue.Push(2);
+            queue.Push(3);
+            queue.Push(4);
+            queue.Display();
+            queue.Pop();
+            queue.Peak();
+            queue.Push(5);
+            queue.Display();
+            Console.WriteLine();
+        }
         static void Main(string[] args)
         {
-            int[] arr = new int[5];
-            int count = 0;
-
-            for(int i = 0; i < arr.Length; i++)
-            {
-                Console.WriteLine("Enter a value");
-                arr[i] = int.Parse(Console.ReadLine());
-            }
-
-            for(int i = 0; i < arr.Length; i++)
-            {
-                for(int j = i + 1; j < arr.Length; j++)
-                {
-                    if (arr[i] == arr[j])
-                    {
-                        Console.WriteLine($"Repeated element is {arr[i]}");
-                        count++;
-                        break;
-                    }
-                }
-                if(count != 0)
-                {
-                    break;
-                }
-            }
-            if(count == 0)
-            {
-                Console.WriteLine("No repeated element found");
-            }
+            //StackOperations();
+            QueueOperations();
             Console.ReadLine();
         }
     }

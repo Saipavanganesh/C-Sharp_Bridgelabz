@@ -77,6 +77,19 @@ namespace Data_Structures
             return null;
         }
 
-
+        public void Display()
+        {
+            for (int i = 0; i < TableSize; i++)
+            {
+                Console.Write($"[{i}]: ");
+                HashNode tempNode = table[i];
+                while (tempNode != null)
+                {
+                    Console.Write($"({tempNode.Key}, {tempNode.Value}) ");
+                    tempNode = tempNode.Next;
+                }
+                Console.WriteLine();
+            }
+        }
     }
 }

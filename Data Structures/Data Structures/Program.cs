@@ -60,6 +60,7 @@ namespace Data_Structures
             hashTable.Add(23, "Sai Pavan");
             hashTable.Add(33, "Jim");
             hashTable.Add(11, "Michael");
+            hashTable.Add(11, "Dwight");
  
             Console.WriteLine("Value for key 13: " + hashTable.Get(13));
             Console.WriteLine("Value for key 19: " + hashTable.Get(19));
@@ -69,14 +70,40 @@ namespace Data_Structures
             Console.WriteLine("Value for key 11: " + hashTable.Get(11));
             Console.WriteLine("Value for key 21: " + hashTable.Get(21));
 
+            Console.WriteLine("Displaying");
+            hashTable.Display();
+            Console.Read();
+        }
+        static void DictionaryOperations()
+        {
+            Dictionary dictionary = new Dictionary();
+
+            dictionary.Add(13, "Sai");
+            dictionary.Add(19, "Pavan");
+            dictionary.Add(10, "Ganesh");
+            dictionary.Add(23, "Sai Pavan");
+            dictionary.Add(33, "Jim");
+            dictionary.Add(11, "Michael");
+            dictionary.Add(11, "Dwight");
+ 
+            Console.WriteLine("Value for key 13: " + dictionary.Get(13));
+            Console.WriteLine("Value for key 19: " + dictionary.Get(19));
+            Console.WriteLine("Value for key 10: " + dictionary.Get(10));
+            Console.WriteLine("Value for key 23: " + dictionary.Get(23));
+            Console.WriteLine("Value for key 39: " + dictionary.Get(33));
+            Console.WriteLine("Value for key 11: " + dictionary.Get(11));
+            Console.WriteLine("Value for key 21: " + dictionary.Get(21));
+
+            Console.WriteLine("\nDisplaying Dictionary");
+            dictionary.Display();
             Console.Read();
         }
         static void Main(string[] args)
         {
             //StackOperations();
             //QueueOperations();
-            HashTableOperations();
-            
+            //HashTableOperations();
+            DictionaryOperations();
         }
     }
 }
