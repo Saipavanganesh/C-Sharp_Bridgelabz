@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oops", "Oops\Oops.csproj", "{3C038710-98B9-489D-9F43-74A985B45CEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesitingInterfaces", "TesitingInterfaces\TesitingInterfaces.csproj", "{B8DA58D7-C60E-405F-8474-54663AEE0D89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3C038710-98B9-489D-9F43-74A985B45CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C038710-98B9-489D-9F43-74A985B45CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C038710-98B9-489D-9F43-74A985B45CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DA58D7-C60E-405F-8474-54663AEE0D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DA58D7-C60E-405F-8474-54663AEE0D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DA58D7-C60E-405F-8474-54663AEE0D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DA58D7-C60E-405F-8474-54663AEE0D89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

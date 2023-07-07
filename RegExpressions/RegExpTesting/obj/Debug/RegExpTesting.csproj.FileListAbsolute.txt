@@ -1,0 +1,18 @@
+D:\C#\Reg Exp\RegExpTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\Reg Exp\RegExpTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\Reg Exp\RegExpTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\Reg Exp\RegExpTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\C#\Reg Exp\RegExpTesting\bin\Debug\RegExpTesting.dll
+D:\C#\Reg Exp\RegExpTesting\bin\Debug\RegExpTesting.pdb
+D:\C#\Reg Exp\RegExpTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\C#\Reg Exp\RegExpTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\C#\Reg Exp\RegExpTesting\bin\Debug\Reg Exp.exe
+D:\C#\Reg Exp\RegExpTesting\bin\Debug\Reg Exp.pdb
+D:\C#\Reg Exp\RegExpTesting\bin\Debug\Reg Exp.exe.config
+D:\C#\Reg Exp\RegExpTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\C#\Reg Exp\RegExpTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C#\Reg Exp\RegExpTesting\obj\Debug\RegExpTesting.csproj.AssemblyReference.cache
+D:\C#\Reg Exp\RegExpTesting\obj\Debug\RegExpTesting.csproj.CoreCompileInputs.cache
+D:\C#\Reg Exp\RegExpTesting\obj\Debug\RegExpTesting.csproj.CopyComplete
+D:\C#\Reg Exp\RegExpTesting\obj\Debug\RegExpTesting.dll
+D:\C#\Reg Exp\RegExpTesting\obj\Debug\RegExpTesting.pdb

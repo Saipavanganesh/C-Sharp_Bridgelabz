@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reg Exp", "Reg Exp\Reg Exp.csproj", "{933FA6EF-A7B4-49DA-9D1D-4E88D38CA38D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegExpTesting", "RegExpTesting\RegExpTesting.csproj", "{A43A1561-D6B1-410B-BF6C-BE6A34B758CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933FA6EF-A7B4-49DA-9D1D-4E88D38CA38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933FA6EF-A7B4-49DA-9D1D-4E88D38CA38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933FA6EF-A7B4-49DA-9D1D-4E88D38CA38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933FA6EF-A7B4-49DA-9D1D-4E88D38CA38D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43A1561-D6B1-410B-BF6C-BE6A34B758CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43A1561-D6B1-410B-BF6C-BE6A34B758CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43A1561-D6B1-410B-BF6C-BE6A34B758CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43A1561-D6B1-410B-BF6C-BE6A34B758CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1093CEE-A02F-4C0A-88EB-D7EB30C005FA}
+	EndGlobalSection
+EndGlobal
