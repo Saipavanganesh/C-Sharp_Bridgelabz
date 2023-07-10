@@ -21,8 +21,7 @@ namespace Collections_Project
             foreach (var item in arrayList)
             {
                 Console.Write(item + " ");
-            }
-
+            } 
             Console.ReadLine();
         }
 

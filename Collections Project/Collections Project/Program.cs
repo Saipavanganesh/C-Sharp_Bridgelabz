@@ -10,8 +10,8 @@ namespace Collections_Project
     {
         static void Main(string[] args)
         {
-            ArraylistDemo ald = new ArraylistDemo();
-            ald.alCollections();
+            //ArraylistDemo ald = new ArraylistDemo();ald.alCollections();
+            HashtableDemo hashtableDemo = new HashtableDemo(); hashtableDemo.htCollections();
         }
     }
 }
