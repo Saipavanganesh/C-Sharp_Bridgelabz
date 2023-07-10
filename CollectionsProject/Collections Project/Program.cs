@@ -11,7 +11,9 @@ namespace Collections_Project
         static void Main(string[] args)
         {
             //ArraylistDemo ald = new ArraylistDemo();ald.alCollections();
-            HashtableDemo hashtableDemo = new HashtableDemo(); hashtableDemo.htCollections();
+            //HashtableDemo hashtableDemo = new HashtableDemo(); hashtableDemo.htCollections();
+            SepLists sl = new SepLists();
+            sl.SeperateLists();
         }
     }
 }
