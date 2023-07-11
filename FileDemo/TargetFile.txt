@@ -1,0 +1,4 @@
+Chandler,Bing,31
+Joey,Tribbiani,30
+Sheldon,Cooper,32
+Eren,Jaeger,18

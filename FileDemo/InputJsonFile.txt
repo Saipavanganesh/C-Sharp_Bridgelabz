@@ -1,0 +1,17 @@
+[
+{
+"Name" : "Sai",
+"Age" : 23,
+"Email" : "sai@gmail.com"
+},
+{
+"Name" : "Pavan",
+"Age" : 24,
+"Email" : "pavan@gmail.com"
+},
+{
+"Name" : "Ganesh",
+"Age" : 25,
+"Email" : "ganesh@gmail.com"
+}
+]
