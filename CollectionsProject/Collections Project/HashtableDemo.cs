@@ -21,7 +21,7 @@ namespace Collections_Project
             {
                 Console.WriteLine($"{obj} : {ht[obj]}");
             }
-            Console.ReadLine();
+            
         }
     }
 }

@@ -42,7 +42,11 @@ namespace Collections_Project
                 Console.Write(d + " ");
             }
             Console.WriteLine();
+<<<<<<< HEAD
             Console.ReadLine();
+=======
+            
+>>>>>>> Files
         }
     }
 }

@@ -1,0 +1,15 @@
+D:\C#\JsonProject\JsonProject\bin\Debug\net6.0\JsonProject.exe
+D:\C#\JsonProject\JsonProject\bin\Debug\net6.0\JsonProject.deps.json
+D:\C#\JsonProject\JsonProject\bin\Debug\net6.0\JsonProject.runtimeconfig.json
+D:\C#\JsonProject\JsonProject\bin\Debug\net6.0\JsonProject.dll
+D:\C#\JsonProject\JsonProject\bin\Debug\net6.0\JsonProject.pdb
+D:\C#\JsonProject\JsonProject\obj\Debug\net6.0\JsonProject.csproj.AssemblyReference.cache
+D:\C#\JsonProject\JsonProject\obj\Debug\net6.0\JsonProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\JsonProject\JsonProject\obj\Debug\net6.0\JsonProject.AssemblyInfoInputs.cache
+D:\C#\JsonProject\JsonProject\obj\Debug\net6.0\JsonProject.AssemblyInfo.cs
+D:\C#\JsonProject\JsonProject\obj\Debug\net6.0\JsonProject.csproj.CoreCompileInputs.cache
+D:\C#\JsonProject\JsonProject\obj\Debug\net6.0\JsonProject.dll
+D:\C#\JsonProject\JsonProject\obj\Debug\net6.0\refint\JsonProject.dll
+D:\C#\JsonProject\JsonProject\obj\Debug\net6.0\JsonProject.pdb
+D:\C#\JsonProject\JsonProject\obj\Debug\net6.0\JsonProject.genruntimeconfig.cache
+D:\C#\JsonProject\JsonProject\obj\Debug\net6.0\ref\JsonProject.dll

@@ -10,10 +10,30 @@ namespace Collections_Project
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             //ArraylistDemo ald = new ArraylistDemo();ald.alCollections();
             //HashtableDemo hashtableDemo = new HashtableDemo(); hashtableDemo.htCollections();
             SepLists sl = new SepLists();
             sl.SeperateLists();
+=======
+            Console.WriteLine("ArrayList");
+            ArraylistDemo ald = new ArraylistDemo();
+            ald.alCollections();
+
+            Console.WriteLine("\n\nHashTable");
+            HashtableDemo hashtableDemo = new HashtableDemo(); 
+            hashtableDemo.htCollections();
+
+            Console.WriteLine("\n\nSeperate Lists");
+            SepLists sl = new SepLists();
+            sl.SeperateLists();
+
+            Console.WriteLine("\n\nGenerics");
+            Gen gen = new Gen();
+            gen.gener();
+
+            Console.ReadLine();
+>>>>>>> Files
         }
     }
 }

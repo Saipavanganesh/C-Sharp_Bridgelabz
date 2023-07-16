@@ -22,7 +22,7 @@ namespace Collections_Project
             {
                 Console.Write(item + " ");
             } 
-            Console.ReadLine();
+            
         }
 
     }
